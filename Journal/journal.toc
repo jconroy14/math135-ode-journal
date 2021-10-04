@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}What is Mathematics? (9/9/21)}{2}%
+\contentsline {section}{\numberline {2}Modeling Herd Immunity}{3}%
+\contentsline {subsection}{\numberline {2.1}SIR $\alpha $ Parameter, Part I (9/14/21)}{3}%
+\contentsline {subsection}{\numberline {2.2}SIR $\alpha $ Parameter, Part II (9/16/21)}{3}%
+\contentsline {subsection}{\numberline {2.3}SIR $\alpha $ Parameter, Part III (9/21/21)}{5}%
+\contentsline {subsection}{\numberline {2.4}Non-Uniqueness of Initial Value Problems (9/23/21)}{6}%
